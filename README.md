@@ -1,6 +1,6 @@
-𝐇ola,compañeros <𝚌𝚘𝚍𝚎𝚛o𝚜/>! 
+hola,compañeros <𝚌𝚘𝚍𝚎𝚛o𝚜/>! 
 
-Soy YO, Serrano Facundo , estudiante avanzado de la Facultad de Ingenieria de Jujuy.
+Soy YO,  Facundo , estudiante avanzado de la Facultad de Ingenieria de Jujuy.
 Un incipiente Desarrollador Full-Stack  y un entusiasta de la programacion  ,
 que esta obsesionado con la idea de mejorarse asimismo y quiere una plataforma para crecer y sobresalir  .
  
