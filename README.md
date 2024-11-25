@@ -30,7 +30,7 @@
 - **🔹 API Testing con Postman**: Diseño y ejecución de pruebas para endpoints REST.
 - **🔹 Testing Manual**: Creación de más de 50 casos de prueba con alta cobertura.
 
-Puedes ver más detalles en mi [Portafolio](https://casperov-jujuy.github.io/Portafolio/) y mis proyectos en [GitHub](https://github.com/Casperov-jujuy).
+Puedes ver más detalles en mi [Portafolio](https://casperov-jujuy.github.io/PortFolio/) y mis proyectos en [GitHub](https://github.com/Casperov-jujuy).
 
 ---
 
