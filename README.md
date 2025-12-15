@@ -1,39 +1,50 @@
-# 👋 ¡Hola! Soy **Facundo Montaño**
+# 👋 Hola! Soy Facundo Montaño
+### Analista de Inteligencia Artificial | Machine Learning | Python 🧠
 
-🎓 **Estudiante de Ingeniería en Informática** en la Universidad Nacional de Jujuy (5to año), apasionado por el mundo del **QA Testing** y la automatización.
+[cite_start]Analista de IA y futuro Ingeniero en Informática con una misión clara: **construir soluciones de IA que resuelvan problemas reales**[cite: 11]. [cite_start]Mi enfoque principal es el desarrollo con **Python** para crear y optimizar modelos de Machine Learning y Agentes de IA autónomos[cite: 13].
 
----
-
-## 🚀 Sobre mí
-- 📜 Graduado de **Dicsys Academy 2023**, especializado en **testing**.
-- 🤖 Curso de **QA Automation** en Quality IT (Selenium con Java).
-- 🛠️ Egresado de la **Escuela Testing de IT Cloud Learning**, con habilidades en **testing manual** y **API Testing** usando Postman.
-- 💻 Desarrollador Full-Stack en **Python**, egresado de bootcamps.
+[cite_start]Mi experiencia previa como QA Analyst me aportó un enfoque metódico y una obsesión por la calidad, habilidades que ahora aplico en el ciclo de vida del Machine Learning, desde la validación de datos hasta el testing de modelos[cite: 12].
 
 ---
 
-## 💻 Habilidades Técnicas
-- **Lenguajes y Herramientas**:
-  - 🧪 Automatización: Selenium, Java
-  - ⚙️ Testing Manual: Diseño de Casos de Prueba
-  - 🌐 API Testing: Postman
-  - 📊 Gestión: Jira
-  - 🗄️ Bases de Datos: SQL
-  - 📁 Control de versiones: Git & GitHub
-- **Metodologías**: 
-  - 🔄 Agile (Scrum)
+## 🛠️ Habilidades Técnicas Clave
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Inteligencia Artificial** | [cite_start]Aprendizaje Automático (Machine Learning), Agentes de IA, Análisis de Modelos [cite: 10, 16] |
+| **Lenguaje Principal** | [cite_start]Python [cite: 8, 16] |
+| **Base de Ingeniería** | [cite_start]Calidad y Fiabilidad de Soluciones, Diseño e Implementación [cite: 17, 18, 26] |
+| **QA/Testing (Background)** | [cite_start]Testing Manual, API Testing (Postman), Diseño de Casos de Prueba [cite: 40, 41] |
+| **Metodologías** | [cite_start]Agile (Scrum) [cite: 44] |
 
 ---
 
-## 📂 Proyectos Destacados
-- **🔹 Automatización con Selenium**: Scripts para pruebas funcionales de aplicaciones web.
-- **🔹 API Testing con Postman**: Diseño y ejecución de pruebas para endpoints REST.
-- **🔹 Testing Manual**: Creación de más de 50 casos de prueba con alta cobertura.
+## 💼 Experiencia Relevante
 
-Puedes ver más detalles en mi [Portafolio](https://casperov-jujuy.github.io/PortFolio/) y mis proyectos en [GitHub](https://github.com/Casperov-jujuy).
+### Analyst IA | Ecosistemas
+**agosto de 2025 - Presente**
+* [cite_start]Diseño e implementación de soluciones basadas en IA[cite: 26].
+* [cite_start]Desarrollo de agentes inteligentes capaces de automatizar procesos, analizar datos y generar predicciones[cite: 26].
+* [cite_start]Rol que integra investigación, validación de modelos y trabajo colaborativo con equipos multidisciplinarios[cite: 27].
+
+### QA Analyst | uTest
+**marzo de 2025 - julio de 2025**
+* [cite_start]Realización de pruebas funcionales manuales sobre aplicaciones web y móviles[cite: 31].
+* [cite_start]Relevamiento y reporte detallado de bugs, con foco en claridad y reproducibilidad[cite: 32].
 
 ---
 
-## 📞 ¡Conéctate Conmigo!
-- [LinkedIn](https://www.linkedin.com/in/facundo-monta%C3%B1o/)
-- ✉️ Email: montanofacundo@gmail.com
+## 🎓 Formación y Certificaciones
+
+* [cite_start]**Ingeniería en Informática:** Universidad Nacional de Jujuy[cite: 52, 53].
+* [cite_start]**Automation Selenium:** Quality IT School[cite: 54, 55].
+* [cite_start]**Escuela Testing QA Manual:** IT Cloud Learning[cite: 56, 57].
+* [cite_start]**Dicsys Academy:** Egresado (Scrum, Data Science, Power BI)[cite: 58, 59].
+
+---
+
+## 📞 Conéctate Conmigo
+
+Busco activamente oportunidades para aplicar mi pasión y mis habilidades en un entorno innovador. [cite_start]Si tu equipo está trabajando en proyectos de IA de alto impacto, me encantaría conversar[cite: 19, 20].
+
+[**LinkedIn**](www.linkedin.com/in/facundo-montaño) | [cite_start]✉️ **Email:** montanofacundo@gmail.com [cite: 2, 4]
